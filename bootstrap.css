@@ -1,0 +1,137 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@alyssalea 
+0
+0 0 alyssalea/Trevor_Art_Show
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
+Trevor_Art_Show
+/
+bootstrap.css
+ 
+
+1
+/*!
+2
+ * Bootstrap v3.3.7 (http://getbootstrap.com)
+3
+ * Copyright 2011-2016 Twitter, Inc.
+4
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+5
+ */
+6
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+7
+html {
+8
+  font-family: sans-serif;
+9
+  -webkit-text-size-adjust: 100%;
+10
+      -ms-text-size-adjust: 100%;
+11
+}
+12
+body {
+13
+  margin: 0;
+14
+}
+15
+article,
+16
+aside,
+17
+details,
+18
+figcaption,
+19
+figure,
+20
+footer,
+21
+header,
+22
+hgroup,
+23
+main,
+24
+menu,
+25
+nav,
+26
+section,
+27
+summary {
+28
+  display: block;
+29
+}
+30
+audio,
+31
+canvas,
+32
+progress,
+33
+video {
+34
+  display: inline-block;
+35
+  vertical-align: baseline;
+36
+}
+37
+audio:not([controls]) {
+38
+  display: none;
+39
+  height: 0;
+40
+}
+41
+[hidden],
+42
+template {
+43
+  display: none;
+44
+}
+45
+a {
+46
+  background-color: transparent;
+47
+}
+48
+a:active,
+49
+a:hover {
+@alyssalea
+Commit changes
+Commit summary 
+Update bootstrap.css
+Optional extended description
+Add an optional extended description…
+  Commit directly to the master branch.
+  Create a new branch for this commit and start a pull request. Learn more about pull requests.
+ 
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
